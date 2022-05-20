@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w5ate41e4dgnoygx?svg=true)](https://ci.appveyor.com/project/igi/dlg2txt)
+
+----
+
 # dlgtotxt
 
 A command line utility to extract string information from dialog.tlk files used in the Infinity Engine relating to specific NPCs, into a csv to enable further processing.
